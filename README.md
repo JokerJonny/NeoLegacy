@@ -6,7 +6,7 @@
 ---
 
 ### ❌ Prohibited Uses
-
+ 
 **The following are strictly forbidden without written consent from the author:**
 
 - Training or fine-tuning of LLMs or AI models using this code or content
