@@ -8,7 +8,7 @@ We take the security of **NeoShade AI** and all related projects seriously. If y
 
 ### 📬 Instead, email us directly at:
 
-**admin@neo-shade.com**
+**admin@neo-shade.com** 
 
 ---
 
