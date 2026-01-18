@@ -1,6 +1,6 @@
 # 🖖 Doctor Spok Protocol
 
-> “Live long and prosper.”  
+> “Live long and prosper.”   
 > — Spock, Ambassador of Logic
 
 ---
