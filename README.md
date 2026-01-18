@@ -68,6 +68,6 @@ Betray it, and the doors will close. This isn’t a game — it’s a lineage.
 
 ---
 
-🛠 **Last Revised:** July 2025  
+🛠 **Last Revised:** January 2026 
 📜 **License Version:** NeoLegacy-Custom v1.0  
 📌 **Legal Jurisdiction:** U.S. (with international copyright enforcement)
