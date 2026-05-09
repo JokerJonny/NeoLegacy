@@ -14,7 +14,7 @@ Instead of allowing human history to disappear into fragmented digital platforms
 
 NeoLegacy is built around one core idea:
 
-Human legacy should not disappear when technology changes.
+Human legacy should not disappear when technology changes. Can I get a Fist Bump
 
 🧠 Core Vision
 
